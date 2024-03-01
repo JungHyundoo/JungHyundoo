@@ -1,8 +1,8 @@
-- 안녕하세요! **성장하고 적응하는 개발자** 정현두입니다.
-- 무엇이든 빠르게 이해하고 대처합니다.
+- 안녕하세요! **소통 열정 추진력에 강한 개발자** 정현두입니다.
+- 생각만 하는 것이 아닌 행동으로 실천합니다.
 - 팀원과의 소통과 협력에 능합니다.
 - 꼼꼼하고 끈기가 있으며 한 번 시작한 일은 끝까지 완수해냅니다.
-
+- 생활신조는 'Can'이 아닌 'Must'로 입니다.
 ### Skills
 <div align="left">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
